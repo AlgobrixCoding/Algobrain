@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For Algobrain
+####################################### 
+# Class
+#######################################
+
+Algobrain	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+runUI	KEYWORD2
+playButtonListener	KEYWORD2
+getSensor	KEYWORD2
+setLed	KEYWORD2
+setMotorSpeed	KEYWORD2
+setMotorDir	KEYWORD2
+setMotor	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+Sensor_A	LITERAL1
+Sensor_B	LITERAL1
+Led_A	LITERAL1
+Led_B	LITERAL1
+ColorRed	LITERAL1
+ColorGreen	LITERAL1
+ColorBlue	LITERAL1
+Motor_A	LITERAL1
+Motor_B	LITERAL1
+Motor_C	LITERAL1
+CW	LITERAL1
+CCW	LITERAL1
